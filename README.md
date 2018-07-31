@@ -1,10 +1,10 @@
 # Sampling Package
 
 This is a simple sampling package. You can sample the original graph by using the following methods:
-  - Simple Random Walk
-  - Random Walk Fly Back
-  - Snowball 
-  - ForestFire
+  - Simple Random Walk(SRW)
+  - Random Walk Fly Back(RWF)
+  - Snowball(SB)
+  - ForestFire(FF)
   - MHRW
   - TIES
  
